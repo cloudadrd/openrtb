@@ -9,7 +9,7 @@ OpenRTB implementation for Go
 To install, use `go get`:
 
 ```shell
-go get github.com/bsm/openrtb
+go get github.com/cloudadrd/openrtb
 ```
 
 ## Usage
